@@ -1,0 +1,31 @@
+# Зависимости
+node_modules/
+
+# Локальные настройки и секреты
+.env
+.env.*
+!.env.example
+
+# Сборка, покрытие и кеш
+dist/
+build/
+coverage/
+.nyc_output/
+.cache/
+*.tsbuildinfo
+
+# Логи; отчёты проверки входят в решение
+*.log
+!verification/*.log
+
+# Локальные файлы редакторов и ОС
+.DS_Store
+.idea/
+*.swp
+*.swo
+*~
+
+# Архивы и образы Docker
+*.zip
+*.tar
+*.tar.gz

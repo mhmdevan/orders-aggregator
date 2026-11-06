@@ -1,0 +1,14 @@
+
+ RUN  v3.0.5 /Users/evan/Downloads/orders-task/app
+
+ ✓ test/totals.test.ts (14 tests) 311ms
+ ✓ test/webhooks.test.ts (19 tests) 212ms
+ ✓ test/sync.test.ts (5 tests) 101ms
+ ✓ test/time.test.ts (7 tests) 13ms
+ ✓ test/money.test.ts (12 tests) 3ms
+
+ Test Files  5 passed (5)
+      Tests  57 passed (57)
+   Start at  01:39:02
+   Duration  1.51s (transform 70ms, setup 0ms, collect 319ms, tests 639ms, environment 0ms, prepare 147ms)
+
